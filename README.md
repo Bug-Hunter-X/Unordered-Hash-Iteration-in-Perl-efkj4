@@ -1,0 +1,1 @@
+This example demonstrates an uncommon error in Perl related to the unordered nature of hash key iteration.  The code iterates through a hash, but the output order may be different from what's expected. The solution shows how to ensure a specific order if needed.
